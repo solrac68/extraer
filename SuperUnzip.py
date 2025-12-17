@@ -9,7 +9,7 @@ import re
 import logging
 from logging.handlers import RotatingFileHandler
 
-FILEXLSX = "C:/Proyectos/Compensar/Elyon/Contingencia/Extractor/Data/Input/TESTCONTINGENCIAslim.xlsx"
+FILEXLSX = "C:/Proyectos/Compensar/Elyon/Contingencia/Extractor/Data/Input/TESTCONTINGENCIAslimDESDECERO.xlsx"
 INPUT = "C:/Proyectos/Compensar/Elyon/Contingencia/Extractor/Data/Input/Facturas_test"
 OUTPUT = "C:/Proyectos/Compensar/Elyon/Contingencia/Extractor/Data/Output"
 COLUMNA_RUTA_DIRECTORIO_ORIGEN = 52
